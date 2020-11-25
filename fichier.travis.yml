@@ -5,5 +5,5 @@ php:
 
 script:
    - composer install
-   - php bin/phpunit
+   - vendor/bin/phpunit
 
